@@ -63,7 +63,6 @@
 
   <main>
     <section class="hero">
-      <h1>Halo saya LIMJA KALIPANG</h1>
       <p class="lead">LIMJA adalah layanan informasi mutasi pajak kelurahan kalipang. Tujaun adanya halaman ini agar wajib pajak mengerti tentang jenis mutasi pajak atau pecah pajak mulai dari pengertian dan syarat-syarat yang harus dipenuhi untuk mengajukan mutasi pajak atau  pecah pajak.</p>
       <div class="actions">
        	<button class="cta" onclick="scrollToSection('Jenis Mutasi')">Jenis Mutasi</button>
