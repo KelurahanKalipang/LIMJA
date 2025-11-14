@@ -39,8 +39,8 @@
 <body>
   <header>
     <div style="display:flex;align-items:center;gap:12px">
-      <div class="brand">LIMJA KALIPANG</div>
-      <div style="font-size:13px;opacity:.9">Layanan Informasi Mutasi Pajak Kelurahan Kalipang</div>
+      <div class="brand">LAYANAN INFORMASI MUTASI PAJAK KALIPANG</div>
+      <div style="font-size:13px;opacity:.9"></div> 
     </div>
 
     <div style="display:flex;align-items:center;gap:10px">
